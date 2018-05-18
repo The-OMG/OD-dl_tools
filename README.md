@@ -3,6 +3,12 @@
 This tool is built to work like "wget --mirror".
 It is tested on ubuntu 16.04, but should work on any *nix based system.
 
+Will only work with a basic webserver file index. Compatible tested webserver
+indexes are:
+* Apache
+* Caddy
+* Nginx
+
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
